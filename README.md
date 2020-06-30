@@ -1,3 +1,4 @@
+![codenation](https://raw.githubusercontent.com/GabrielF9/Data-Science-Online/master/logo.png)
 # AceleraDev Data Science - [Codenation](https://codenation.dev)
 
 ## RoadMap da Aceleração
